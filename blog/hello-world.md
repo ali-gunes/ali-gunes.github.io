@@ -4,7 +4,7 @@ date: 2021-03-29T03:27:01+03:00
 slug: "hello-world"
 description: "A warm welcome for the series called **my Data Science Journey**"
 keywords: []
-draft: true
+draft: false
 tags: [hello world!]
 math: false
 toc: false
